@@ -1,18 +1,4 @@
-## Getting Started
+## CSCI 4810 - Assignment 3
+### 3D Transformer
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![A family of dwarf bulborbs](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pikminwiki.com%2Fimages%2Fc%2Fcc%2FDwarf_Red_Bulborb_P1_group_art.png&f=1&nofb=1&ipt=2192d8017831e0d0675e793156fad0c1b272bedabc27d8e01c66d7b4d50bb177&ipo=images)
